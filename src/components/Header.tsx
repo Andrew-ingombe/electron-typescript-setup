@@ -9,5 +9,5 @@ const StyledHeaderText = styled(Typography)`
 `;
 
 export const Header = () => {
-  return <StyledHeaderText>Header</StyledHeaderText>;
+  return <StyledHeaderText>Header please</StyledHeaderText>;
 };
